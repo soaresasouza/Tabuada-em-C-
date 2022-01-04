@@ -1,2 +1,2 @@
-# Tabuada-em-C-
+# Tabuada-em-C#
 Teste de tabuada em C#
