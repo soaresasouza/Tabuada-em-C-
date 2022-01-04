@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\TesteTabuada.exe
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\TesteTabuada.deps.json
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\TesteTabuada.runtimeconfig.json
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\TesteTabuada.dll
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\ref\TesteTabuada.dll
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\bin\Debug\net6.0\TesteTabuada.pdb
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.AssemblyInfo.cs
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.dll
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\ref\TesteTabuada.dll
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.pdb
+C:\Users\User\Documents\DIO\11- workspace\TesteTabuada\obj\Debug\net6.0\TesteTabuada.genruntimeconfig.cache
